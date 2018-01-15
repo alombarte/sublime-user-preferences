@@ -1,4 +1,9 @@
 {
+	"added_words":
+	[
+		"microservices",
+		"microservice"
+	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"font_size": 13,
@@ -10,13 +15,15 @@
 	],
 	"rulers":
 	[
-		100
+		120
 	],
 	"save_on_focus_lost": false,
+	"tab_size": 4,
 	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
+	"word_wrap": true,
 	"wrap_width": 120,
-	"ignore_vcs_packages": true
+	"spell_check": true,
+	"dictionary": "Packages/Language - English/en_US.dic"
 }

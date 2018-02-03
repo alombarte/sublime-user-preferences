@@ -1,11 +1,11 @@
 {
 	"bootstrapped": true,
+	"ignore_vcs_packages": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"Package Control"
-	],
-	"ignore_vcs_packages": true,
+	]
 }

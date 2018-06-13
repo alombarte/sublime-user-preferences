@@ -2,23 +2,22 @@
 	"added_words":
 	[
 		"microservices",
-		"microservice"
+		"microservice",
+		"",
+		"plugin",
+		"backend"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"color_scheme": "Packages/User/ColorHighlighter/themes/Boxy Tomorrow.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
-	"font_size": 14,
+	"font_face": "Fira Mono",
+	"font_size": 17,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"predawn_findreplace_small": true,
-	"predawn_quick_panel_small": true,
-	"predawn_sidebar_arrows": true,
-	"predawn_tabs_active_underline": true,
-	"predawn_tabs_small": true,
 	"rulers":
 	[
 		120
@@ -26,7 +25,7 @@
 	"save_on_focus_lost": false,
 	"spell_check": true,
 	"tab_size": 4,
-	"theme": "predawn-DEV.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,

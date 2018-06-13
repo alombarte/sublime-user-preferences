@@ -6,6 +6,19 @@
 	],
 	"installed_packages":
 	[
-		"Package Control"
+		"Boxy Theme",
+		"ESLint",
+		"ESLint-Formatter",
+		"Golang Build",
+		"HTML5",
+		"HTMLBeautify",
+		"JsPrettier",
+		"Package Control",
+		"React IDE",
+		"SCSS",
+		"Smarty",
+		"Theme - Centurion",
+		"UnusedCssFinder",
+		"WordCount"
 	]
 }
